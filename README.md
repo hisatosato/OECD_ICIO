@@ -1,2 +1,3 @@
-ReadMe_ICIO_small.xlsx：OECDが提供しているICIOテーブルの説明
+ReadMe_ICIO_small.xlsx：OECDが提供しているICIOテーブルの説明．
+
 format_icio.R：ICIOテーブルを読み込み，日本関連の列だけを残すRスクリプト
